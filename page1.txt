@@ -1,2 +1,4 @@
 today is 2026.10.18
 this is note for git class
+
+modify this word is only for creating some commit, know other special purpose 
